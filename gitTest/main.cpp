@@ -9,4 +9,6 @@ void main()
 	printf("%d\n", i);
 
 	printf("kkk");
+
+	printf("kkk");
 }
