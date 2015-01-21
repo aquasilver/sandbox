@@ -12,4 +12,8 @@ void main()
 
 	printf("kkfffff");
 
+
+#if defined(PLATFORM_WIN32)
+#endif // defined(PLATFORM_WIN32)
+
 }
