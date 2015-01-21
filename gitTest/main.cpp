@@ -10,5 +10,4 @@ void main()
 
 	printf("kkk");
 
-	printf("kkk2");
 }
