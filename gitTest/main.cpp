@@ -12,4 +12,6 @@ void main()
 
 	printf("kkfffff");
 
+	printf("KKKK");
+
 }
