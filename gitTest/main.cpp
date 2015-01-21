@@ -10,6 +10,6 @@ void main()
 
 	printf("kkk");
 
-	printf("kkllll");
+	printf("kkff");
 
 }
