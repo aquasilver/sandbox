@@ -7,4 +7,6 @@ void main()
 
 	i = 100;
 	printf("%d\n", i);
+
+	printf("kkk");
 }
